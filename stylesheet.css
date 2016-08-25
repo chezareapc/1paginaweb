@@ -1,0 +1,49 @@
+.t1 {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Verdana, sans-serif;
+
+  text-align: center;
+
+
+}
+.imgindex{
+  ;
+  ;
+}
+
+.tabla_menu{
+  background-color: #848484;
+  border-color: orange;
+  margin: auto;
+  font-weight: 400;
+
+  width: 1000px;
+  font-size: 18px;
+}
+.tabla_insertar{
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+
+  background-color: orange;
+
+}
+#tabla_modificar{
+  text-align: left;
+  background-color: green;
+}
+#tabla_reporte{
+  background-color: green;
+}
+
+a{
+  text-decoration: none;
+  ;
+
+
+}
+
+tr{
+  text-align: center;
+}
